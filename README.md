@@ -1,4 +1,4 @@
-# IAM-Active-Directory-LAB
+# IAM-Active-Directory-LAB(on-Prem to Cloud)
 🛡️ Active Directory IAM Homelab (Windows Server 2022)
 
 This project simulates a real enterprise identity environment using Active Directory Domain Services (AD DS), DNS, Group Policy, and Role-Based Access Control (RBAC).
