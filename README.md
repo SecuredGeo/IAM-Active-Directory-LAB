@@ -1,12 +1,12 @@
 # IAM-Active-Directory-LAB
 🛡️ Active Directory IAM Homelab (Windows Server 2022)
-<img width="755" height="527" alt="Active Directory" src="https://github.com/user-attachments/assets/998a5802-7ec7-4766-9748-8c7f197157bb" />
 
 This project simulates a real enterprise identity environment using Active Directory Domain Services (AD DS), DNS, Group Policy, and Role-Based Access Control (RBAC).
 The goal of this lab is to demonstrate hands-on skills in Identity & Access Management, user provisioning, security hardening, and enterprise access controls.
 
 🔰 1. Server Setup — Domain Controller Deployment
 Windows Server Manager — Role Overview
+<img width="1435" height="878" alt="Server manager dashboard" src="https://github.com/user-attachments/assets/381c5d21-e1ac-419c-b54f-1e696a7ae3ec" />
 
 After installing Windows Server 2022, the machine was promoted to a Domain Controller for the domain homelab.local.
 Core identity roles installed:
